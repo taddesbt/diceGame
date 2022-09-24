@@ -1,0 +1,12 @@
+.output {
+    width: 450px;
+    text-align: center;
+    font-size: 2em;
+    border: 2px red solid;
+  }
+  
+  button {
+    padding: 10px;
+    text-align: center;
+    width: 450px;
+  }
